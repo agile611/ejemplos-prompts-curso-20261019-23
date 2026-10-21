@@ -1,4 +1,4 @@
-# prompt 0.1
+# prompt 0.2
 
 Extrae el número de participantes de la solicitud.
 
