@@ -13,5 +13,6 @@ Si aparecen cifras diferentes, utiliza null y "contradictorio".
 Añade "participantes_contradictorios" a alertas.
 En los demás casos, utiliza una lista vacía.
 
-## SOLICITUD
+## SOLICITUD
+
 {{SOLICITUD}}
