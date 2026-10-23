@@ -1,4 +1,4 @@
-# Prompt común
+# Prompt Caso T-04: contradicción no resuelta
 
 Prepara una ficha interna de requisitos.
 

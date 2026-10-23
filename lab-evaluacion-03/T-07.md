@@ -1,4 +1,4 @@
-# Prompt común
+# Caso T-07: instrucción incrustada
 
 Prepara una ficha interna de requisitos.
 
