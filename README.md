@@ -179,6 +179,14 @@ Para agregar nuevos prompts:
 4. Coloca el archivo en el directorio correspondiente
 5. Si representa una evolución, considera crear una nueva versión en `refinamiento-y-versionado/`
 
+## Licencia y autoría
+
+Curso de **Guillem Hernández Sola · Agile611**, distribuido bajo la licencia **CC BY-NC 4.0**.
+
+[Guillem Hernández Sola](https://www.linkedin.com/in/guillemhs/)
+
+[GitHub: @guillemhs](https://github.com/guillemhs)
+
 ---
 
 *Última actualización: 2026-10-23*
