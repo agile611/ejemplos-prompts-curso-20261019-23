@@ -2,7 +2,7 @@
 
 ## ID
 
-{{ID_SOLICITUD}}
+Solicitud S-03: información ausente
 
 ## DESCRIPCION GENERAL
 
@@ -195,4 +195,6 @@ No se necesitan herramientas externas para probar esta política.
 
 ## FUENTE
 
-{{FUENTE}}
+Queremos información sobre una formación.
+Todavía no hemos decidido participantes, duración,
+modalidad ni fecha.
